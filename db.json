@@ -2,9 +2,9 @@
   
 {
   "Office": [
-    { "ID": "1", "Country": "Beratung"},
-    { "ID": "2", "Country": "Support"},
-    { "ID": "3", "Country": "Reklamation"},
-    { "ID": "4", "Country": "Services"}
+    { "ID": "1", "Country": "DE"},
+    { "ID": "2", "Country": "EN"},
+    { "ID": "3", "Country": "USA"},
+    { "ID": "4", "Country": "FR"}
   ]
 }
