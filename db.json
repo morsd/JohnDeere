@@ -1,16 +1,10 @@
+  
+  
 {
-  "Country": [
-    {
-      "ID": "1",
-      "Country": "Germany"
-    },
-    {
-      "ID": "2",
-      "Country": "UK"
-    },
-    {
-      "ID": "3",
-      "Country": "USA"
-    }
+  "Cagegory": [
+    { "ID": "1", "Category": "Beratung"},
+    { "ID": "2", "Category": "Support"},
+    { "ID": "3", "Category": "Reklamation"},
+    { "ID": "4", "Category": "Services"}
   ]
 }
